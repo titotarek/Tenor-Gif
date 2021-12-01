@@ -1,0 +1,38 @@
+body{
+width: 100%;
+background-color: rgb(202, 171, 171);
+
+}
+h2{
+    text-align: center;
+    color: rgb(120, 63, 42);
+    font-weight: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: rgb(81, 52, 41);
+    font-family: monospace;
+    margin-left: 250px;
+}
+.sty{
+    width: 20%;
+    height: 20px;
+    color: rgb(50, 6, 6);
+    margin-left: 30px;
+     
+}
+#button{
+    background-color: rgb(187, 207, 207);
+    width: 100x;
+
+    
+}
+img{
+    border-radius: 50%;
+    widows: 10px;
+    height: 200px;
+}
+newGif:hover{
+    transform: 1.2;
+}
+
